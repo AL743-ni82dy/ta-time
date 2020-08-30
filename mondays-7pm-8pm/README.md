@@ -28,3 +28,6 @@ Add your name to request a ticket for admittance
 
 ## August 17th Attendees
 - Alvin -- help with homework, React (saving and passing input)
+
+## August 31st Attendees
+- Alvin -- help setting up app-from-scratch
